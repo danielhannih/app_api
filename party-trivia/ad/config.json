@@ -1,0 +1,77 @@
+{
+  "active": true,
+  "android_active": true,
+  "interval": 4,
+  "ads": [
+    {
+      "app_name": "Never have I<br>ever...",
+      "icon": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-app-icon.png",
+      "visual": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-ad-01-base.jpg",
+      "visual_overlay": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-ad-01-overlay-01.png",
+      "ios": "https://apps.apple.com/app/apple-store/id1436049430",
+      "ios_ref": "?pt=1178695&ct=party_trivia_v1_ad_01&mt=8",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "android_ref": "&referrer=utm_source%3Dparty_trivia_app%26utm_medium%3Dbanner%26utm_content%3Dapp%26utm_campaign%3Dparty_trivia_internal_ads"
+    },
+    {
+      "app_name": "Never have I<br>ever...",
+      "icon": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-app-icon.png",
+      "visual": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-ad-01-base.jpg",
+      "visual_overlay": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-ad-01-overlay-02.png",
+      "ios": "https://apps.apple.com/app/apple-store/id1436049430",
+      "ios_ref": "?pt=1178695&ct=party_trivia_v1_ad_02&mt=8",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "android_ref": "&referrer=utm_source%3Dparty_trivia_app%26utm_medium%3Dbanner%26utm_content%3Dapp%26utm_campaign%3Dparty_trivia_internal_ads"
+    },
+    {
+      "app_name": "Never have I<br>ever...",
+      "icon": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-app-icon.png",
+      "visual": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-ad-02-base.jpg",
+      "visual_overlay": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-ad-02-overlay-01.png",
+      "ios": "https://apps.apple.com/app/apple-store/id1436049430",
+      "ios_ref": "?pt=1178695&ct=party_trivia_v1_ad_03&mt=8",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "android_ref": "&referrer=utm_source%3Dparty_trivia_app%26utm_medium%3Dbanner%26utm_content%3Dapp%26utm_campaign%3Dparty_trivia_internal_ads"
+    },
+    {
+      "app_name": "Never have I<br>ever...",
+      "icon": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-app-icon.png",
+      "visual": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-ad-02-base.jpg",
+      "visual_overlay": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-ad-02-overlay-02.png",
+      "ios": "https://apps.apple.com/app/apple-store/id1436049430",
+      "ios_ref": "?pt=1178695&ct=party_trivia_v1_ad_04&mt=8",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "android_ref": "&referrer=utm_source%3Dparty_trivia_app%26utm_medium%3Dbanner%26utm_content%3Dapp%26utm_campaign%3Dparty_trivia_internal_ads"
+    },
+    {
+      "app_name": "Never have I<br>ever...",
+      "icon": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-app-icon.png",
+      "visual": "https://psycatgames.com/api/party-trivia/ad/v1/naked-truth-ad-03-base.png",
+      "visual_overlay": "",
+      "ios": "https://apps.apple.com/app/apple-store/id1436049430",
+      "ios_ref": "?pt=1178695&ct=party_trivia_v1_ad_05&mt=8",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "android_ref": "&referrer=utm_source%3Dparty_trivia_app%26utm_medium%3Dbanner%26utm_content%3Dapp%26utm_campaign%3Dparty_trivia_internal_ads"
+    },
+    {
+      "app_name": "Most Likely To",
+      "icon": "https://psycatgames.com/api/party-trivia/ad/v1/mlt-app-icon.png",
+      "visual": "https://psycatgames.com/api/party-trivia/ad/v1/mlt-ad-01-base.jpg",
+      "visual_overlay": "",
+      "ios": "https://apps.apple.com/app/apple-store/id1498057837",
+      "ios_ref": "?pt=1178695&ct=party_trivia_v1_ad_06&mt=8",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "android_ref": "&referrer=utm_source%3Dparty_trivia_app%26utm_medium%3Dbanner%26utm_content%3Dapp%26utm_campaign%3Dparty_trivia_internal_ads"
+    },
+    {
+      "app_name": "Most Likely To",
+      "icon": "https://psycatgames.com/api/party-trivia/ad/v1/mlt-app-icon.png",
+      "visual": "https://psycatgames.com/api/party-trivia/ad/v1/mlt-ad-02-base.jpg",
+      "visual_overlay": "",
+      "ios": "https://apps.apple.com/app/apple-store/id1498057837",
+      "ios_ref": "?pt=1178695&ct=party_trivia_v1_ad_07&mt=8",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "android_ref": "&referrer=utm_source%3Dparty_trivia_app%26utm_medium%3Dbanner%26utm_content%3Dapp%26utm_campaign%3Dparty_trivia_internal_ads"
+    }
+  ]
+}
