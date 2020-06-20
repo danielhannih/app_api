@@ -1,0 +1,71 @@
+{
+  "android": true,
+  "ios": true,
+  "interval": 5,
+  "version": 1,
+  "ads": [
+    {
+      "app_name": "Never have I<br>ever...",
+      "icon": "naked-truth-app-icon.png",
+      "visual": "naked-truth-ad-01-base.jpg",
+      "visual_overlay": "naked-truth-ad-01-overlay-01.png",
+      "ios": "https://apps.apple.com/app/apple-store/id1436049430",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "ref": "ad_01"
+    },
+    {
+      "app_name": "Never have I<br>ever...",
+      "icon": "naked-truth-app-icon.png",
+      "visual": "naked-truth-ad-01-base.jpg",
+      "visual_overlay": "naked-truth-ad-01-overlay-02.png",
+      "ios": "https://apps.apple.com/app/apple-store/id1436049430",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "ref": "ad_02"
+    },
+    {
+      "app_name": "Never have I<br>ever...",
+      "icon": "naked-truth-app-icon.png",
+      "visual": "naked-truth-ad-02-base.jpg",
+      "visual_overlay": "naked-truth-ad-02-overlay-01.png",
+      "ios": "https://apps.apple.com/app/apple-store/id1436049430",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "ref": "ad_03"
+    },
+    {
+      "app_name": "Never have I<br>ever...",
+      "icon": "naked-truth-app-icon.png",
+      "visual": "naked-truth-ad-02-base.jpg",
+      "visual_overlay": "naked-truth-ad-02-overlay-02.png",
+      "ios": "https://apps.apple.com/app/apple-store/id1436049430",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "ref": "ad_04"
+    },
+    {
+      "app_name": "Never have I<br>ever...",
+      "icon": "naked-truth-app-icon.png",
+      "visual": "naked-truth-ad-03-base.png",
+      "visual_overlay": "",
+      "ios": "https://apps.apple.com/app/apple-store/id1436049430",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "ref": "ad_05"
+    },
+    {
+      "app_name": "Most Likely To",
+      "icon": "mlt-app-icon.png",
+      "visual": "mlt-ad-01-base.jpg",
+      "visual_overlay": "",
+      "ios": "https://apps.apple.com/app/apple-store/id1498057837",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "ref": "ad_06"
+    },
+    {
+      "app_name": "Most Likely To",
+      "icon": "mlt-app-icon.png",
+      "visual": "mlt-ad-02-base.jpg",
+      "visual_overlay": "",
+      "ios": "https://apps.apple.com/app/apple-store/id1498057837",
+      "android": "https://play.google.com/store/apps/details?id=com.psycatgames.nhiegame",
+      "ref": "ad_07"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "g": [
+    {
+        "id": "classic",
+        "a": {
+          "t": [
+            "Json Truth classic questions?",
+            "Json Truth classic questions v2?"
+          ],
+          "d": [
+            "Some Json dare from classic",
+            "Some Json dare from classic v2"
+          ]
+        }
+      },
+      {
+        "id": "kids",
+        "a": {
+          "t": [
+            "Json Truth kids questions?"
+          ],
+          "d": [
+            "Some Json dare from kids"
+          ]
+        }
+      },
+      {
+        "id": "party",
+        "a": {
+          "t": [
+            "Json Truth party questions?"
+          ],
+          "d": [
+            "Some Json dare from party"
+          ]
+        }
+      },
+      {
+        "id": "hot",
+        "a": {
+          "t": [
+            "Json Truth hot questions?"
+          ],
+          "d": [
+            "Some Json dare from hot"
+          ]
+        }
+      }
+  ]
+}

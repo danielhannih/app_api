@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "review_requestion": {
+    "ios": true,
+    "android": true
+  },
+  "ratingPrompt": 16,
+  "init_upsell": true,
+  "review": {
+    "ios": {
+      "v1": false
+    },
+    "android": {
+      "v1": false
+    }
+  }
+}
